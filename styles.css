@@ -30,7 +30,7 @@ p {
 }
 
 .main {
-    width: 240px;
+    width: 300px;
     display: flex;
     flex-wrap: wrap;
     align-items: center;
@@ -52,15 +52,14 @@ img {
 
 .heading {
     font-weight: 700;
-    padding-left: 30px;
-    padding-right: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
     margin-top: 0;
     margin-bottom: 0;
 }
 
 .sub {
     font-weight: 400;
-    font-size: 0.70rem;
-    padding-left: 30px;
-    padding-right: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
 }
